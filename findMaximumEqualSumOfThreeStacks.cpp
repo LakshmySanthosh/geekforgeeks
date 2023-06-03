@@ -1,7 +1,7 @@
 /*
 Given three stacks S1, S2 & S3 of size N1, N2 & N3 respectively, having only Positive Integers. 
 The task is to find the possible equal maximum sum of the stacks with the removal of top elements allowed. 
-Stacks are represented as an array, and the first index of the array represents the top element of the stack.
+Stacks are represented as an array, and the first index of the array represents  the top element of the stack.
 */
 
 class Solution{
